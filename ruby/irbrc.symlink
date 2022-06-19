@@ -44,5 +44,5 @@ def me
 end
 
 def r
-  reload!
+  reloadProfile
 end
